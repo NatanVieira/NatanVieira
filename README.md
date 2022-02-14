@@ -1,6 +1,6 @@
 ### Hi there, I'm Natan :D 👋
 
-- 🔭 I’m currently working on Progress 4GL
+- 🔭 I’m currently working with Progress 4GL
 - 🌱 I’m currently learning .NET Core and Angular
 - 👯 I’m looking to collaborate on .NET Core/Angular and Progress 4GL Projects
 - 💬 Ask me about Progress 4GL
