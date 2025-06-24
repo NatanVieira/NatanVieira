@@ -1,6 +1,6 @@
 ### Hi there, I'm Natan :D 👋
 
-- 🔭 I’m currently working with Progress ABL
+- 🔭 I’m currently working with Progress ABL/React and NextJS
 - 🌱 I’m currently learning .NET Core, React and NextJS
 - 👯 I’m looking to collaborate on .NET Core, React, NextJS, Angular and Progress ABL Projects
 - 💬 Ask me about Progress ABL
